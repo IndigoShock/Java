@@ -174,6 +174,7 @@ Graphs|Heaps|Lists|Queues|
 [DFS](DataStructures/Graphs/DFS.java)|[Heap](DataStructures/Heaps/Heap.java)|[Doubly Linked List](DataStructures/Lists/DoublyLinkedList.java)|[Queues](DataStructures/Queues/Queues.java)|
 [Graphs](DataStructures/Graphs/Graphs.java)|[Heap Element](DataStructures/Heaps/HeapElement.java)|[Singly Linked List](DataStructures/Lists/SinglyLinkedList.java)|
 [Kruskals Algorithm](DataStructures/Graphs/KruskalsAlgorithm.java)|[Max Heap](Data%Structures/Heaps/MaxHeap.java)|
+[CursorLinkedList](DataStructures/Lists/CursorLinkedList.java)|
 [Matrix Graphs](DataStructures/Graphs/MatrixGraphs.java)|[Min Heap](DataStructures/Heaps/MinHeap.java)|
 [PrimMST](DataStructures/Graphs/PrimMST.java)|
 
@@ -181,7 +182,8 @@ Stacks|Trees|
 ------|-----|
 [Node Stack](DataStructures/Stacks/NodeStack.java)|[AVL Tree](DataStructures/Trees/AVLTree.java)|
 [Stack of Linked List](DataStructures/Stacks/StackOfLinkedList.java)|[Binary Tree](DataStructures/Trees/BinaryTree.java)|
-[Stacks](DataStructures/Stacks/Stacks.java)|And much more...|
+[Array Stack](DataStructures/Stacks/StackArray.java)|And much more...|
+[ArrayList Stack](DataStructures/Stacks/StackArrayList.java)||
 
 * [Bags](DataStructures/Bags/Bag.java)
 * [Buffer](DataStructures/Buffers/CircularBuffer.java)
